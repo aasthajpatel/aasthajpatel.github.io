@@ -2,20 +2,18 @@
     text-align: center;
 }
 
-.interests {
+.intro {
     text-align: center;
     margin-top: 5%;
     
 }
 
-.roblox {
-    margin-top: 8%;
-}
-
 .GFX {
-
+   text-align: center;
+   margin-top: 8%;
 }
 
-.videos {
-    
+.Games {
+    margin-top: 10%;
 }
+
